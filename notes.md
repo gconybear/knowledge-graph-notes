@@ -45,8 +45,9 @@
 		- hyponym is instance of hypernym 
 - plain text --> semantic information 
 	- how to we make that mapping? 
-		- ML stuff: supervised, unsupervised, rule-based, POS tagging, etc 
-	- ![Hearst patterns](https://programmerbackpack.com/content/images/2020/08/Python-Knowledge-Graph---Hearst-Patterns.png) 
+		- ML stuff: supervised, unsupervised, rule-based, POS tagging, etc  
+	- Hearst patterns
+		- ![Hearst patterns](https://programmerbackpack.com/content/images/2020/08/Python-Knowledge-Graph---Hearst-Patterns.png) 
 
 
 
