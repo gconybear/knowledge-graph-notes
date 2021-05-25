@@ -46,7 +46,7 @@
 - plain text --> semantic information 
 	- how to we make that mapping? 
 		- ML stuff: supervised, unsupervised, rule-based, POS tagging, etc 
-	- ![Hearst patterns](https://programmerbackpack.com/content/images/2020/08/Python-Knowledge-Graph---Hearst-Patterns.png) 
+	- [Hearst patterns](https://programmerbackpack.com/content/images/2020/08/Python-Knowledge-Graph---Hearst-Patterns.png) 
 
 
 
