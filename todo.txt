@@ -1,0 +1,7 @@
+
+
+module to translate pandas df to query-able knowledge graphs 
+	- not sure how to do this yet 
+
+
+
